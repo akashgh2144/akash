@@ -229,64 +229,15 @@ font-size: 45px;
 
 
 /* feature section styles */
-  /* .features{
-    width: 80%; 
-    display: flex;
-    
-    justify-content: space-around;
-    align-items: center;
-    
-    margin: 50px auto;
-  }
-  
-
-.feature-content{
-
-}
-
-.features-title{
-    font-size: 48px;
-font-weight: 700;
-}
-.quick-list2{
-    background: linear-gradient(180deg, #F948B2 0%, #8758F1 100%);
-background-clip: text;
--webkit-background-clip: text;
--webkit-text-fill-color: transparent;
-}
-
-.relative img{
-    width: 100%;
-    position: relative;
  
-}
- .relative img{
-    position: relative;
-    width: 70%;
-} 
-.img-badge{
-    width: 200px;
-    position: absolute;
-    left: 800px;
-    bottom: -1250px;
 
-
-} */
-
-.play-games-container{
-    /* display: flex; */
+.multiple-games-container{
+    
     width: 100%;
-    /* margin: auto; */
     margin-bottom: 200px;
 }
-.play-game-contant {
-    /* display: flex;
-    /* flex-direction: row-reverse; 
-    width: 80%;
-    margin: 100px auto;
-
-    justify-content: space-between;
-    align-items: center; */
+.multiple-game-contant {
+   
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -295,19 +246,19 @@ background-clip: text;
 
 }
 
-.play-game-texts {
+.multiple-game-texts {
     width: 40%;
     height: 40%;
 }
 
-.play-game-header {
+.multiple-game-header {
     font-size: 2rem;
     color: #0B0223;
     font-weight: 700;
     width: 300px;
 }
 
-.play-game-description {
+.multiple-game-description {
     color: #534C64;
     font-size: 1.2rem;
     font-style: normal;
@@ -315,26 +266,26 @@ background-clip: text;
     /* width: 350px; */
 }
 
-.play-online {
+.multiple-online {
     background-image: linear-gradient(180deg, #F948B2 0%, #8758F1 100%);
     ;
     color: transparent;
     -webkit-background-clip: text;
 }
 
-.play-game-img {
+.multiple-game-img {
     width: 60%;
 
     position: relative;
 
 }
 
-.play-game-img .img {
+.multiple-game-img .multiple-img {
     width: 80%;
     height: 100%;
 
 }
-.Rectangle-78{
+.small-img{
     width: 30%;
     position: absolute;
     bottom: -15%;
