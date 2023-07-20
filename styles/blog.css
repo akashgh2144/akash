@@ -334,14 +334,14 @@ ul li a {
   align-items: center;
   gap: 0.3rem;
 }
-.photo :hover{
+.photo {
   border: 8px solid #fff;
   padding: 10px;
   margin-right: 10px;
   border-radius: 50px;
   margin-top: 50px;
   cursor: pointer;
-  border-color: #f948b2;
+  
 }
 .photo {
   max-width: 100%;
@@ -359,14 +359,14 @@ ul li a {
   align-items: center;
   gap: 0.3rem;
 }
-.photo1 :hover {
+.photo1  {
   border: 8px solid #fff;
   padding: 10px;
   margin-right: 10px;
   border-radius: 50px;
   margin-top: 10px;
   cursor: pointer;
-  border-color: #f948b2;
+  
 }
 .photo1 {
   max-width: 100%;
