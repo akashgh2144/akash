@@ -308,12 +308,15 @@ ul li a {
 /* feature section styles end */
 
 /* multiple game section */
-.multiple-banner {
+.multiple-banner  {
   background: linear-gradient(
     90deg,
     rgba(255, 66, 165, 0.03) 0%,
     rgba(255, 66, 165, 0.03) 100%
+    
+    
   );
+  /* border-color: #ff42a5; */
   width: 100%;
   height: 100%;
   margin: 30px 0;
@@ -331,13 +334,14 @@ ul li a {
   align-items: center;
   gap: 0.3rem;
 }
-.photo {
+.photo :hover{
   border: 8px solid #fff;
   padding: 10px;
   margin-right: 10px;
   border-radius: 50px;
   margin-top: 50px;
   cursor: pointer;
+  border-color: #f948b2;
 }
 .photo {
   max-width: 100%;
@@ -350,18 +354,19 @@ ul li a {
   align-items: center;
   cursor: pointer;
 }
-.photo1 {
+.photo1  {
   display: flex;
   align-items: center;
   gap: 0.3rem;
 }
-.photo1 {
+.photo1 :hover {
   border: 8px solid #fff;
   padding: 10px;
   margin-right: 10px;
   border-radius: 50px;
   margin-top: 10px;
   cursor: pointer;
+  border-color: #f948b2;
 }
 .photo1 {
   max-width: 100%;
@@ -521,7 +526,7 @@ footer {
 /* tab responsive start */
 @media screen and (max-width :768px) {
 
-    
+
     
 }
 
