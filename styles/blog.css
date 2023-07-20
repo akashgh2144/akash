@@ -516,6 +516,14 @@ footer {
     width: 270px;
   }
 }
+/* mobile responsive end */
+
+/* tab responsive start */
+@media screen and (max-width :768px) {
+
+    
+    
+}
 
 
 
